@@ -7,7 +7,7 @@
 [![Contributors](https://img.shields.io/github/contributors/howto-com/howto.com)](https://github.com/howto-com/howto.com/graphs/contributors) 
 [![License](https://img.shields.io/github/license/howto-com/howto.com)](https://github.com/howto-com/howto.com/blob/main/LICENSE)
 [![Last Commit](https://img.shields.io/github/last-commit/howto-com/howto.com)](https://github.com/howto-com/howto.com/commits/main)
-[![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=howto-com.howto.com)](https://github.com/howto-com/howto.com)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https://github.com/howto-com/howto.com&label=Visitors&labelColor=%23ffa500&countColor=%2337d67a)](https://visitorbadge.io/status?path=https://github.com/howto-com/howto.com)
 
 > Your comprehensive guide to learning how to do anything - from tech tutorials to life hacks, DIY projects to professional skills.
 
